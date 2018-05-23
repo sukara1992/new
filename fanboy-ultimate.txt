@@ -52074,7 +52074,7 @@ wyciwyg:$popup,domain=jkanime.net|vodlock.co
 ||chatrandom.com/js/slider.js
 ||chubby-ocean.com/banner/
 ||clips-and-pics.org/clipsandpics.js
-||cloudfront.net^$script,domain=avgle.com|pornscum.com|pornve.com|watch8x.com|xmovies.to|xmovies247.com|yourporn.sexy
+||cloudfront.net^$script,domain=pornscum.com|pornve.com|watch8x.com|xmovies.to|xmovies247.com|yourporn.sexy
 ||comdotgame.com/vgirl/
 ||coolmovs.com/js/focus.*.js
 ||coolmovs.com/rec/$subdocument
@@ -64419,7 +64419,6 @@ monstercockz.com,xxxhdd.com##a[href*="/go/"]
 sexyandfunny.com,yourdailypornstars.com##a[href*="/out.php?"]
 badjojo.com##a[href*="/out.php?siteid=13&id=0&url=http%3A%2F%2Fsyndication.traffichaus.com"]
 mansurfer.com##a[href*="/out/"]
-avgle.com##a[href*="/redirect"]
 celebrity-slips.com##a[href*="?_atc="]
 gotporn.com,katestube.com,pron.tv,spankbang.com##a[href*="?ats="]
 redtube.com,thumbzilla.com##a[href*="?coupon="]
@@ -64451,7 +64450,6 @@ giftube.com##a[href^="http://adultfriendfinder.com/go/"]
 anyporn.com##a[href^="http://anyporn.com/cs/"]
 porn.com,youjizz.com,youporn.com,youporngay.com##a[href^="http://as.sexad.net/"]
 porn-w.org,porn99.net##a[href^="http://bit.ly/"]
-avgle.com##a[href^="http://bongacams.com/track?"]
 sex4fun.in##a[href^="http://c.mobpartner.mobi/"]
 sex3dtoons.com##a[href^="http://click.bdsmartwork.com/"]
 imghit.com##a[href^="http://crtracklink.com/"]
@@ -64589,7 +64587,6 @@ yourasiansex.com##iframe[width="660"]
 videosgls.com.br##iframe[width="800"]
 hentai-foundry.com##iframe[width]
 pornhub.com##iframe[width][height*="px"]
-avgle.com,hotgirlclub.com,pornobae.com,xxxkingtube.com##img[src*=".php"]
 fantasti.cc,pornerbros.com,pornxs.com##img[src*=".php?"]
 4tube.com##img[src][style][width]
 pornhub.com##img[src^="http://www.pornhub.com/album/strange/"]
